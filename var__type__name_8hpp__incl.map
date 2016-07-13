@@ -1,0 +1,6 @@
+<map id="src/celma/common/var_type_name.hpp" name="src/celma/common/var_type_name.hpp">
+<area shape="rect" id="node2" href="$common_2type__name_8hpp.html" title="celma/common/type_name.hpp" alt="" coords="108,95,312,121"/>
+<area shape="rect" id="node3" href="$detail_2type__name_8hpp.html" title="Defines the base template for getting the name of a type. " alt="" coords="5,259,191,285"/>
+<area shape="rect" id="node4" href="$pod__type__name_8hpp.html" title="Adds partial template specialisations for the &#39;plain old data types&#39;. " alt="" coords="135,169,285,211"/>
+<area shape="rect" id="node5" href="$stl__type__name_8hpp.html" title="Adds partial template specialisations for some types provided by the STL. " alt="" coords="585,169,728,211"/>
+</map>

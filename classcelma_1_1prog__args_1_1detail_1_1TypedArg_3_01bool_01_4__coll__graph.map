@@ -1,0 +1,8 @@
+<map id="celma::prog_args::detail::TypedArg&lt; bool &gt;" name="celma::prog_args::detail::TypedArg&lt; bool &gt;">
+<area shape="rect" id="node2" href="$classcelma_1_1prog__args_1_1detail_1_1TypedArgBase.html" title="Base class for storing type&#45;specific handlers type&#45;neutrally. " alt="" coords="533,113,695,154"/>
+<area shape="rect" id="node4" href="$classcelma_1_1prog__args_1_1detail_1_1ICheck.html" title="Base class for value checks. " alt="" coords="5,13,167,54"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="297,85,377,112"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="23,78,149,119"/>
+<area shape="rect" id="node8" href="$classcelma_1_1prog__args_1_1detail_1_1IConstraint.html" title="Base class for constraints. " alt="" coords="5,143,167,185"/>
+<area shape="rect" id="node10" href="$classcelma_1_1prog__args_1_1detail_1_1IFormat.html" title="Base class for value formatters. " alt="" coords="5,223,167,265"/>
+</map>

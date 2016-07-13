@@ -1,0 +1,6 @@
+<map id="src/celma/common/detail/singleton.hpp" name="src/celma/common/detail/singleton.hpp">
+<area shape="rect" id="node3" href="$static__singleton__creator_8hpp.html" title="See documentation of class celma::common::detail::StaticSingletonCreator. " alt="" coords="245,95,434,136"/>
+<area shape="rect" id="node11" href="$dynamic__singleton__creator_8hpp.html" title="See documentation of class celma::common::detail::DynamicSingletonCreator. " alt="" coords="404,184,611,225"/>
+<area shape="rect" id="node4" href="$celma__exception_8hpp.html" title="See documentation of template celma::common::CelmaException. " alt="" coords="229,184,380,225"/>
+<area shape="rect" id="node10" href="$exception__base_8hpp.html" title="See documentation of class celma::common::ExceptionBase. " alt="" coords="227,273,398,315"/>
+</map>
